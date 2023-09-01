@@ -1,0 +1,25 @@
+# Compiled class files
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+
+# Logs and other generated files
+log/
+*.log
+*.log.*
+*.tmp
+*.swp
+*.bak
+
+# Dependencies
+lib/
+
+# Maven specific files
+pom.xml.*
+mvn-wrapper.jar
